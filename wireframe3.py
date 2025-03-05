@@ -1,0 +1,7 @@
+print("Saturdays")
+print("=========")
+print("")
+input("Enter the week day for january 1st",)
+input("is the current year a leap year",)
+print("")
+print("The total number of saturdays in the current year is <<numberOfSaturdays>>")
