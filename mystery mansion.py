@@ -1,5 +1,5 @@
 room = ['Entrance Hall','Library','Kitchen','Garden']
-commands = ['N','S','E','W','quit','help']
+commands = ['N','S','E','W','Quit','help']
 description = [
     "A grand foyer with a crystal chandelier",
     "Dusty bookshelves stretch from floor to ceiling",
